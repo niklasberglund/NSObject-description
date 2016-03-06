@@ -1,6 +1,12 @@
 # NSObject-description
 Helps you produce `description` method output formatted same way as Apple's classes' `description` output.
 
+# Install
+Either manually add the files to your project or install using CocoaPods. Add NSObject+description to your Podfile like so:
+```
+pod 'NSObject+description'
+```
+
 # Usage
 
 ## Manually pass attribute names and values
